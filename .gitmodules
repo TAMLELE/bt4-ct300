@@ -1,0 +1,6 @@
+[submodule "bt4-ct300"]
+	path = bt4-ct300
+	url = https://github.com/TAMLELE/bt4-ct300.git
+[submodule "master"]
+	path = master
+	url = https://github.com/TAMLELE/bt4-ct300.git
